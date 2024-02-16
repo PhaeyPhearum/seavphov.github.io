@@ -8,6 +8,8 @@ body {
 
 .container {
 	max-width: 390px;
+	background-color: #e00;
+	padding: 15px 0;
 }
 
 .inner {
